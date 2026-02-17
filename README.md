@@ -6,7 +6,7 @@ Welcome to Mr.HelpMate-AI, a powerful Retrieval Augmented Generation (RAG) syste
 
 ### RAG Architecture
 
-![Project Architecture](https://github.com/LakshmiK-95//Mr.HelpMate-AI/blob/main/data/image/Picture1.png)
+![Project Architecture](https://github.com/LakshmiK-95/Mr.HelpMate-AI/blob/main/data/image/Picture1.png)
 
 ### Features
 
