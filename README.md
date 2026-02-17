@@ -6,7 +6,7 @@ Welcome to Mr.HelpMate-AI, a powerful Retrieval Augmented Generation (RAG) syste
 
 ### RAG Architecture
 
-![Project Architecture](https://github.com/rajuaiml777/Mr.HelpMate-AI/blob/main/data/image/Picture1.png)
+![Project Architecture](https://github.com/LakshmiK-95//Mr.HelpMate-AI/blob/main/data/image/Picture1.png)
 
 ### Features
 
@@ -22,7 +22,7 @@ Welcome to Mr.HelpMate-AI, a powerful Retrieval Augmented Generation (RAG) syste
 
 1. **Clone the repository:**
 ```bash
-  git clone https://github.com/rajuaiml777/Mr.HelpMate-AI.git
+  git clone https://github.com/LakshmiK-95/Mr.HelpMate-AI.git
 
   cd Mr.HelpMate
 ```
@@ -51,4 +51,4 @@ Contributions of any kind are welcome.
 - PDFPlumber developers for creating a reliable tool for PDF text extraction.
 - Hugging Face for hosting pre-trained models and facilitating experimentation.
 
-For more details, visit our [GitHub repository](https://github.com/rajuaiml777/Mr.HelpMate-AI). Let's make insurance policy handling smarter and easier! 🚀
+For more details, visit our [GitHub repository](https://github.com/LakshmiK-95/Mr.HelpMate-AI). Let's make insurance policy handling smarter and easier! 🚀
